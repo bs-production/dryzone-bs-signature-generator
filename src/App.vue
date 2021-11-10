@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://cdn.treehouseinternetgroup.com/cms_images/3155/Liberty_logo_SELECT_RGB%20-%20NOT%20APPROVED%20YET%20-%20Only%20reference%20for%20color.png" alt="" style="width:350px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/183/DryZone%20Logo_Since87_RGB_300w.png" alt="" style="width:300px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2021 Liberty Basement Systems
+                    &copy;2021 Dryzone Basement Systems
                 </p>
             </div>
         </div>
@@ -224,10 +224,10 @@ input:disabled {
 }
 .sub-text {
   margin-left: 10px;
-  margin-top: 10px;
+  margin-top: 60px;
 }
 .sub-text p {
-  color: #2851a9;
+  color: #25408f;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 700;
   font-size: 32px;
