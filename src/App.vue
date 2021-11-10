@@ -62,7 +62,7 @@
 
           <div class="gif-box level-item has-text-centered">
             <ul>
-              <li>1. Place cursor at the top-left corner of Liberty Basement Systems logo and click & drag to bottom-right corner of the disclaimer</li>
+              <li>1. Place cursor at the top-left corner of Dryzone Basement Systems logo and click & drag to bottom-right corner of the disclaimer</li>
               <li>2. Paste into Outlook signatures in preferences panel</li>
               <li>3. Adjust logo size if needed</li>
             </ul>
@@ -208,7 +208,7 @@ input:disabled {
   margin-top: 10px;
 }
 .button.is-success, .button.is-success[disabled] {
-  background-color: #013d63;
+  background-color: #25408f;
   border-color: transparent;
   color: #fff;
 }
@@ -227,7 +227,7 @@ input:disabled {
   margin-top: 60px;
 }
 .sub-text p {
-  color: #25408f;
+  color: #0e4164;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 700;
   font-size: 32px;

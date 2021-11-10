@@ -84,7 +84,7 @@
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2822/icon-facebook_30x30-2.png" /></a>
+                    "https://cdn.treehouseinternetgroup.com/cms_images/183/icon_facebook_30x30.png" /></a>
                     
                     <!-- <a href="https://www.linkedin.com/company/larry-janeskys-healthy-basement-systems" target="_blank" style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
@@ -99,7 +99,7 @@
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://cdn.treehouseinternetgroup.com/cms_images/2726/icon-google_30x30.png" /></a>
+                    "https://cdn.treehouseinternetgroup.com/cms_images/183/icon_google_30x30.png" /></a>
 
                     <a href="https://www.instagram.com/dryzonemass/" target="_blank"
                     style=
@@ -107,7 +107,7 @@
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2822/icon-instagram_30x30.png" /></a>
+                    "https://cdn.treehouseinternetgroup.com/cms_images/183/icon-instagram_30x30.png" /></a>
 
                     <a href="https://twitter.com/DryZone_Mass" target="_blank"
                     style=
@@ -115,7 +115,7 @@
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://cdn.treehouseinternetgroup.com/cms_images/183/twitter-icon.png" /></a>
+                    "https://cdn.treehouseinternetgroup.com/cms_images/183/icon-twitter_30x30.png" /></a>
 
                     <!-- <a href="https://www.youtube.com/channel/UCgmszJizjhPE8jwcUvNvzew" target="_blank"
                     style=
