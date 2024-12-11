@@ -227,7 +227,7 @@ input:disabled {
   margin-top: 60px;
 }
 .sub-text p {
-  color: #0e4164;
+  color: #25408f;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 700;
   font-size: 32px;

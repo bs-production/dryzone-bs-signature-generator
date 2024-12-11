@@ -109,13 +109,13 @@
                     src=
                     "https://cdn.treehouseinternetgroup.com/cms_images/183/icon-instagram_30x30.png" /></a>
 
-                    <a href="https://twitter.com/DryZone_Mass" target="_blank"
+                    <!-- <a href="https://twitter.com/DryZone_Mass" target="_blank"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://cdn.treehouseinternetgroup.com/cms_images/183/icon-twitter_30x30.png" /></a>
+                    "https://cdn.treehouseinternetgroup.com/cms_images/183/icon-twitter_30x30.png" /></a> -->
 
                     <!-- <a href="https://www.youtube.com/channel/UCgmszJizjhPE8jwcUvNvzew" target="_blank"
                     style=
